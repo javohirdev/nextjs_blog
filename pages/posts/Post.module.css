@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.routing{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+  letter-spacing: 2.5px;
+}
+.title{
+    text-align: center;
+}
